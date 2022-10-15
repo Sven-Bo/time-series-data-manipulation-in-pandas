@@ -2,8 +2,7 @@
 In this quick tutorial, I will show you how to manipulate and work with time-series data using pandas. I will demonstrate a few of the many features that make Pandas such an excellent tool for data analysis!
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/viVLGptwMRIVQ/0.jpg)](https://youtu.be/VLGptwMRIVQ)
 
 
 ## About Me
